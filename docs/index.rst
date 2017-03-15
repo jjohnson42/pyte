@@ -14,6 +14,8 @@ that do:
   multiplexor.
 * `BastionSSH <https://github.com/wcc526/bastion-ssh>`_ -- a tool for
   protecting, monitoring and accessing multiple SSH resources.
+* `confluent <https://github.com/xcat2/confluent>`_ -- server management software with
+  text console management
 
 .. note:: Using ``pyte``? Add yourself to this list and submit a pull request.
 
